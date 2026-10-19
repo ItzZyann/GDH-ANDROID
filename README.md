@@ -5,13 +5,13 @@ A simple Geometry Dash mod that offers useful hacks. No Geode required.
 ## Features
 
 - Player hacks (noclip, no rotation, no death effect, flash death)
-- Interface hacks (hide pause button, no menu transition, show FPS)
+- Interface hacks (hide pause button, no menu transition, show FPS) soon!
 - Game hacks (unlock icons, colors, music customizer, and more)
 - Level hacks (unlock main levels, disable shaders, instant complete, and more)
 
 ## Requirements
 
-- Geometry Dash 2.208 (Android, arm64-v8a)
+- Geometry Dash 2.209 (Android, arm64-v8a)
 - A legal copy of Geometry Dash
 
 ## Installation
